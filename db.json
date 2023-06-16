@@ -7,7 +7,7 @@
     "body": "desc",
     "time": "12:33",
     "id": 5,
-    "attachments": null,
+    "attachments": null
   },
   {
     "mailer": "Розанов Даниил",
@@ -17,7 +17,7 @@
     "body": "desc",
     "time": "12:32",
     "id": 4,
-    "attachments": ["Методичка.pdf", "another.pdf"],
+    "attachments": ["Методичка.pdf", "another.pdf"]
   },
   {
     "mailer": "Ковалёв Константин",
@@ -27,7 +27,7 @@
     "body": "desc",
     "time": "12:31",
     "id": 3,
-    "attachments": null,
+    "attachments": null
   },
   {
     "mailer": "Чернышева Татьяна",
@@ -37,6 +37,6 @@
     "body": "That's all!!!",
     "time": "12:30",
     "id": 2,
-    "attachments": null,
+    "attachments": null
   }
 ]
