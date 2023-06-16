@@ -2,41 +2,17 @@
   {
     "mailer": "Назарова Анна",
     "mailerAvatar": null,
-    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
-    "title": "Защита ВКР",
-    "body": "desc",
-    "time": "12:33",
-    "id": 5,
-    "attachments": null
   },
   {
     "mailer": "Розанов Даниил",
     "mailerAvatar": null,
-    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
-    "title": "Методичка по Лаб №1 (АЛП)",
-    "body": "desc",
-    "time": "12:32",
-    "id": 4,
-    "attachments": ["Методичка.pdf", "another.pdf"]
   },
   {
     "mailer": "Ковалёв Константин",
     "mailerAvatar": null,
-    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
-    "title": "Мероприятие для студентов и сотрудников, встреча с руководством АО ВМЗ",
-    "body": "desc",
-    "time": "12:31",
-    "id": 3,
-    "attachments": null
   },
   {
     "mailer": "Чернышева Татьяна",
     "mailerAvatar": null,
-    "sentTo": ["Яковлев Станислав"],
-    "title": "Access to the dc-project group was granted",
-    "body": "That's all!!!",
-    "time": "12:30",
-    "id": 2,
-    "attachments": null
   }
 ]
