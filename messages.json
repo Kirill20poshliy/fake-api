@@ -1,20 +1,42 @@
 [
   {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "mailer": "Назарова Анна",
+    "mailerAvatar": NaN,
+    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
+    "title": "Защита ВКР",
+    "body": "Товарищи студенты, информирую, что защита ВКР будет на кафедре\n15.06.23 в 12:00\n20.06.23 в 13:00.\n\nС уважением,\nзаместитель декана 2-го курса\nфакультета “Машиностроительные технологии\nНазарова Анна Васильевна"
+    "time": "12:33",
+    "id": 5,
+    "attachments": NaN,
   },
   {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "mailer": "Розанов Даниил",
+    "mailerAvatar": NaN,
+    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
+    "title": "Методичка по Лаб №1 (АЛП)",
+    "body": "Здравствуйте!\nВысылаю методичку по лабораторной работе №1.\n\nС уважением, Розанов Даниил Петрович"
+    "time": "12:32",
+    "id": 4,
+    "attachments": ["Методичка.pdf", "another.pdf"],
   },
   {
-    "userId": 1,
+    "mailer": "Ковалёв Константин",
+    "mailerAvatar": NaN,
+    "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
+    "title": "Мероприятие для студентов и сотрудников, встреча с руководством АО ВМЗ",
+    "body": "Добрый день, уважаемые коллеги!\n20 апреля 2023 года (четверг) в 12:00 в зале Ученого совета, пройдет встреча студентов (прежде всего выпускных и предвыпускных курсов) с представителями Выксунского металлургического завода, входящего в состав Объединенной металлургической компании.\n\nВ программе мероприятия доклад Руководителя «OMK Tech акселератора», заместителя директора по научно-исследовательской деятельности Инженерно-технологического центра АО «Выксунский металлургический завод», к.т.н. Мунтина Александра Вадимовича:\n«Перспективы сотрудничества с Объединенной металлургической компанией: практики, стажировки, трудоустройство»\nМероприятие нацелено на освещение возможностей прохождения практик и стажировок и потенциала трудоустройства для студентов, вопросов развития научно-технического сотрудничества, поиска новых перспективных точек соприкосновения промышленного предприятия и ВУЗа.\n\nС уважением,\nМГТУ им. Н.Э. Баумана\nКовалёв Константин Сергеевич\n\nТел: 8 999 999 99 99"
+    "time": "12:31",
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "attachments": NaN,
+  },
+  {
+    "mailer": "Чернышева Татьяна",
+    "mailerAvatar": NaN,
+    "sentTo": ["Яковлев Станислав",],
+    "title": "Access to the dc-project group was granted",
+    "body": "That's all!!!"
+    "time": "12:30",
+    "id": 2,
+    "attachments": NaN,
   },
 ]
