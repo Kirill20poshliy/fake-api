@@ -1,17 +1,37 @@
-{ "mails": [
+{
+  "posts": [
     {
       "mailer": "Назарова Анна",
-      "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
-      "title": "Защита ВКР",
-      "time": "12:33",
-      "id": 5,
+      "id": 1,
+      "title": "Mail 1",
+      "body": "mail-1 body"
     },
     {
-      "mailer": "Розанов Станислав",
-      "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
-      "title": "Что-то ещё",
-      "time": "12:33",
-      "id": 5,
+      "mailer": "Розанов Даниил",
+      "id": 2,
+      "title": "Mail 2",
+      "body": "mail-2 body"
+    },
+    {
+      "mailer": "Ковалёв Константин",
+      "id": 3,
+      "title": "Mail 3",
+      "body": "mail-3 body"
     }
-  ]
+  ],
+  "attachments": [
+    {
+      "id": 1,
+      "source": "Методичка.pdf",
+      "mailId": 2
+    },
+    {
+      "id": 2,
+      "source": "another.pdf",
+      "mailId": 2
+    }
+  ],
+  "user": {
+    "name": "Яковлев Станислав"
+  }
 }
