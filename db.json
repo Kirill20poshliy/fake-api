@@ -1,8 +1,11 @@
 {
   "mails": [
     {
-      "mailer": "Назарова Анна",
-      "mailerAvatar": "",
+      "mailer": {
+        "name": "Назарова Анна",
+        "email": "nazarovaav@bmstu.ru",
+        "avatar": ""
+      },
       "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
       "id": 4,
       "title": "Защита ВКР",
@@ -10,8 +13,11 @@
       "time": "12:32"
     },
     {
-      "mailer": "Розанов Даниил",
-      "mailerAvatar": "",
+      "mailer": {
+        "name": "Розанов Даниил",
+        "email": "rozanovdo@bmstu.ru",
+        "avatar": ""
+      },
       "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
       "id": 3,
       "title": "Методичка по Лаб №1 (АЛП)",
@@ -19,8 +25,11 @@
       "time": "12:31"
     },
     {
-      "mailer": "Ковалёв Константин",
-      "mailerAvatar": "",
+      "mailer": {
+        "name": "Ковалёв Константин",
+        "email": "kovalevkd@bmstu.ru",
+        "avatar": ""
+      },
       "sentTo": ["Яковлев Станислав"],
       "id": 2,
       "title": "Мероприятие для студентов и сотрудников, встреча с руководством АО ВМЗ",
@@ -28,7 +37,11 @@
       "time": "12:30"
     },
     {
-      "mailer": "Чернышева Татьяна",
+      "mailer": {
+        "name": "Чернышева Татьяна",
+        "email": "chernishevatv@bmstu.ru",
+        "avatar": ""
+      },
       "mailerAvatar": "",
       "sentTo": ["Яковлев Станислав"],
       "id": 1,
