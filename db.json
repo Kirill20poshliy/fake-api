@@ -24,8 +24,17 @@
       "sentTo": ["Яковлев Станислав"],
       "id": 2,
       "title": "Мероприятие для студентов и сотрудников, встреча с руководством АО ВМЗ",
-      "body": "",
+      "body": "льмукомтущотмутккдмтоуктмотуо",
       "time": "12:30"
+    },
+    {
+      "mailer": "Чернышева Татьяна",
+      "mailerAvatar": "",
+      "sentTo": ["Яковлев Станислав"],
+      "id": 1,
+      "title": "Access to the dc-project group was granted",
+      "body": "That's all!!!",
+      "time": "12:29"
     }
   ],
   "attachments": [
