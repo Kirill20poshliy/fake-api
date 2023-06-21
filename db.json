@@ -2,18 +2,21 @@
   "mails": [
     {
       "mailer": "Назарова Анна",
+      "sentTo": ["Яковлев Станислав"],
       "id": 1,
       "title": "Mail 1",
       "body": "mail-1 body"
     },
     {
       "mailer": "Розанов Даниил",
+      "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
       "id": 2,
       "title": "Mail 2",
       "body": "mail-2 body"
     },
     {
       "mailer": "Ковалёв Константин",
+      "sentTo": ["Яковлев Станислав"],
       "id": 3,
       "title": "Mail 3",
       "body": "mail-3 body"
