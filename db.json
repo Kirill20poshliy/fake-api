@@ -50,6 +50,9 @@
     }
   ],
   "user": {
-    "name": "Яковлев Станислав"
+    "name": "Яковлев Станислав",
+    "role": "student",
+    "email": "student_yakovlevsa@bmstu.ru",
+    "password": "password"
   }
 }
