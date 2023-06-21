@@ -68,6 +68,7 @@
     "name": "Яковлев Станислав",
     "role": "student",
     "email": "student_yakovlevsa@bmstu.ru",
-    "password": "password"
+    "password": "password",
+    "occupiedMemory": 15
   }
 }
