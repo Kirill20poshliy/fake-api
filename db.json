@@ -42,13 +42,13 @@
       "id": 1,
       "fileName": "Методичка.pdf",
       "source": "Методичка.pdf",
-      "mailId": 2
+      "mailId": 3
     },
     {
       "id": 2,
       "fileName": "another.pdf",
       "source": "another.pdf",
-      "mailId": 2
+      "mailId": 3
     }
   ],
   "user": {
