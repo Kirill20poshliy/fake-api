@@ -3,23 +3,26 @@
     {
       "mailer": "Назарова Анна",
       "sentTo": ["Яковлев Станислав"],
-      "id": 1,
+      "id": 3,
       "title": "Mail 1",
-      "body": "mail-1 body"
+      "body": "mail-1 body",
+      "time": "12:32"
     },
     {
       "mailer": "Розанов Даниил",
       "sentTo": ["Яковлев Станислав", "МТ5-81Б"],
       "id": 2,
       "title": "Mail 2",
-      "body": "mail-2 body"
+      "body": "mail-2 body",
+      "time": "12:31"
     },
     {
       "mailer": "Ковалёв Константин",
       "sentTo": ["Яковлев Станислав"],
-      "id": 3,
+      "id": 1,
       "title": "Mail 3",
-      "body": "mail-3 body"
+      "body": "mail-3 body",
+      "time": "12:30"
     }
   ],
   "attachments": [
